@@ -31,11 +31,11 @@ My motivation for this project was to learn a new tool (Spark) that nowadays is 
 I'm using MIT license
 
 * Jupyter Notebook:<br>
-Project-CRISP.ipynb
+Sparkify.ipynb
 
 * README.md:<br>
 It's where you are. It contains things about the project.
-* Dataset:<br>
+* mini_sparkify_event_data.json:<br>
 The file used in the work.
 
 ### :bar_chart: Results:
